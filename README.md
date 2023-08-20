@@ -1,4 +1,6 @@
-![Alt text](https://github.com/tusharsikka267/Tushar_Sikka/blob/main/download.jpeg)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 <h1 align="center">Hi 👋, I'm Tushar Sikka</h1>
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
