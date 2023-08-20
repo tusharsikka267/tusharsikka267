@@ -1,5 +1,4 @@
-![Alt text](![download](https://github.com/tusharsikka267/Tushar_Sikka/assets/99428058/e6293208-4610-42da-9b25-c58ffe93c03f)
-)
+![Alt text](https://github.com/tusharsikka267/Tushar_Sikka/blob/main/download.jpeg)
 <h1 align="center">Hi 👋, I'm Tushar Sikka</h1>
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
