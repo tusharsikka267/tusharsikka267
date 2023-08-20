@@ -1,4 +1,4 @@
-![MasterHead](![download](https://github.com/tusharsikka267/Tushar_Sikka/assets/99428058/8474b876-e069-4ce4-b730-b359ee24b933)
+![Alt text](![download](https://github.com/tusharsikka267/Tushar_Sikka/assets/99428058/e6293208-4610-42da-9b25-c58ffe93c03f)
 )
 <h1 align="center">Hi 👋, I'm Tushar Sikka</h1>
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
