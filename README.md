@@ -5,7 +5,7 @@
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansr2002&label=Profile%20views&color=0e75b6&style=flat" alt="ketansr2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansr2002&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar267" /> </p>
 
 - 🌱 I’m currently working as a  *Data Science Intern*
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tushar-sikka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-singh-rajpoot-6b9150202/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ketanraj2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ketanraj2002/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-sikka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-sikka/" height="30" width="40" /></a>
+<a href="https://leetcode.com/tusharsikka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tusharsikka/" height="30" width="40" /></a>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketansr2002&show_icons=true&locale=en&layout=compact" alt="ketansr2002" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketansr2002&show_icons=true&locale=en&layout=compact" alt="Tushar" /></p>
