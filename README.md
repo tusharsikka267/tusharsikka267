@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FbugsAreComming%2F&psig=AOvVaw1T9JqlsMA8Jw2EUd_1N8OE&ust=1692607385233000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiCi4Ls6oADFQAAAAAdAAAAABAF)
 <h1 align="center">Hi 👋, I'm Tushar Sikka</h1>
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
