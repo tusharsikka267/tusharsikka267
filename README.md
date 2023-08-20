@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tusharsikka267/Tushar_Sikka/blob/main/download.jpeg" alt="Coding image" height:"40"  width:"80" />
+  <img src="https://github.com/tusharsikka267/Tushar_Sikka/blob/main/download.jpeg" alt="Coding image" height:"40"  width:"280" />
 </p>
 <h1 align="center">Hi 👋, I'm Tushar Sikka</h1>
 <h3 align="center">A passionate and enthusiastic computer science undergraduate looking for opportunities to start my career as a Software Engineer.</h3>
